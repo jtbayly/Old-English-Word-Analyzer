@@ -9,7 +9,7 @@ I was about to start writing my first post on [SimpleWords.Work](https://www.Sim
 ## How do you use it?
 
 0. Install it on your Mac (see below)
-1. Select some text, whereever you want.
+1. Select some text, wherever you want.
 2. Right-click and select Services->Old English Word Analyzer.
 3. A popup will tell you the number of Old English words, the number of other words, and the percentage that were Old English.
 
